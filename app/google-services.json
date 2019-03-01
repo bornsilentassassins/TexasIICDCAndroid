@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "596299139359",
+    "firebase_url": "https://ti-iicdc.firebaseio.com",
+    "project_id": "ti-iicdc",
+    "storage_bucket": "ti-iicdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596299139359:android:fb6c55057d4d64c3",
+        "android_client_info": {
+          "package_name": "com.example.bluetoothcomm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596299139359-lj2quj1pjg6vt610qih1istqjpllgl4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bluetoothcomm",
+            "certificate_hash": "6123990b500bac7a57313ffd4e8cf03f93fdb4f4"
+          }
+        },
+        {
+          "client_id": "596299139359-58bra321g5sh98fhl0s3h9n8nc7trrso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPRyvFdPUyUOYGEfLOnMg2kKfmLpIB6NU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596299139359-58bra321g5sh98fhl0s3h9n8nc7trrso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
